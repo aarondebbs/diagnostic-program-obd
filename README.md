@@ -1,5 +1,5 @@
 # OBD-II Diagnostic Tool (CLI-Based)
-A Python-based **OBD-II diagnostic tool** designed to retrieve and display vehicle data using a **command-line interface (CLI)**. This tool allows users to **scan ECUs, retrieve Diagnostic Trouble Codes (DTCs), monitor live sensor data, and store results for future reference**.
+A Python-based **OBD-II diagnostic tool** designed to retrieve and display vehicle data using a **command-line interface (CLI)**. This tool allows users to **scan ECUs, retrieve Diagnostic Trouble Codes (DTCs), monitor live sensor data, and store results**.
 ##  Features
 - **List Available ECUs** – Detect all connected ECUs in the vehicle.
 - **Retrieve DTCs** – Display all active Diagnostic Trouble Codes.
