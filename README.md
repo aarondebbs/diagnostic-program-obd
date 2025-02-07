@@ -9,9 +9,9 @@ A Python-based **OBD-II diagnostic tool** designed to retrieve and display vehic
 
   
 ## Option	Description
-**1**	List Available ECUs
-**2**	Retrieve All DTCs
-**3**	Store DTCs in a File
-**4**	Show Live Sensor Data
-**5**	Store Available ECUs in a File
-**6**	Exit
+- **1**	- List Available ECUs
+- **2**	- Retrieve All DTCs
+- **3** - Store DTCs in a File
+- **4**	- Show Live Sensor Data
+- **5** -	Store Available ECUs in a File
+- **6** -	Exit
